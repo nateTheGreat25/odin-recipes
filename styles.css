@@ -1,0 +1,29 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+h5 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+li {
+    font-size: 30px;
+}
+
+.home {
+    font-size: 25px;
+}
